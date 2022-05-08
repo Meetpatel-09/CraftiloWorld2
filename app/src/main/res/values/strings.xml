@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Craftilo World</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_have_a_account_log_in">Already Have A Account? Log In.</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_a_new_account">Create a new account.</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+    <string name="mange_group">Mange Group</string>
+    <string name="create_group">Create Group</string>
+    <string name="upload_news">Upload News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+
+    <string-array name="spinner_items">
+
+        <item> Astrology </item>
+        <item> Business </item>
+        <item> Entertainment </item>
+        <item> Environment </item>
+        <item> Education </item>
+        <item> Fashion </item>
+        <item> Financial </item>
+        <item> Health </item>
+        <item> Lifestyle </item>
+        <item> Politics </item>
+        <item> Science </item>
+        <item> Sports </item>
+        <item> Technology </item>
+        <item> Weather </item>
+        <item> World </item>
+
+    </string-array>
+
+</resources>

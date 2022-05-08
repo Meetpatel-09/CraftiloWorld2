@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952036861224",
+    "firebase_url": "https://craftillo-world-default-rtdb.firebaseio.com",
+    "project_id": "craftillo-world",
+    "storage_bucket": "craftillo-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952036861224:android:14a73a88e5b2f8bc5cdc1d",
+        "android_client_info": {
+          "package_name": "com.example.craftiloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952036861224-kgkpetf2uiegrb74v1f60pmk2tsn6r41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQHBpOBoAd7LlzgSJkzKJB_6TDxr0YUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952036861224-kgkpetf2uiegrb74v1f60pmk2tsn6r41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
